@@ -42,16 +42,6 @@ A data-driven optimization layer on top of your existing Kubernetes clusters:
 
 ---
 
-## Who it's for
-
-| **Companies** | **Engineers** |
-|---------------|----------------|
-| CTOs, VPs of Engineering and FinOps teams reducing cloud spend | Platform and SRE teams tired of manual tuning |
-| Sustainability leaders who care about a greener computing footprint | Engineers who want infrastructure that learns from production data |
-| Organizations that want better performance without more operational overhead | Builders who believe Latam can lead the next wave of infrastructure innovation |
-
----
-
 ## Stay close
 
 - **LinkedIn:** [company/markuves](https://www.linkedin.com/company/markuves/)
